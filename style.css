@@ -306,7 +306,7 @@ main p {
 .hero-link {
     display: inline-block;
 
-    color: #bfdbfe;
+    color: #93c5fd !important;
 
     text-decoration: none;
 
