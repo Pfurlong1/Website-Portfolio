@@ -314,11 +314,11 @@ main p {
 
     transition:
         transform 0.2s ease,
-        opacity 0.2s ease;
+        color 0.2s ease;
 }
 
 .hero-link:hover {
-    opacity: 0.7;
+    color: #bfdbfe !important;
 
     transform: translateX(4px);
 }
